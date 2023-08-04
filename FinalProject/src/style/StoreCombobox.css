@@ -1,0 +1,34 @@
+
+
+#apCombobox{
+    -fx-background-color: white;
+}
+
+.combo-box{
+    -fx-border-width: 0.0px;
+    -fx-font-size: 12px; 
+    -fx-padding: 0px;
+    -fx-font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    -fx-font-style: underline;
+}
+.combo-box:hover{
+    -fx-text-fill: white;
+}
+.combo-box-base:hover{
+    -fx-border-color: green;
+}
+.combo-box-base:focused{
+    -fx-text-fill: white;
+}
+.combo-box .list-view{
+    -fx-border-width: 0.5px;
+    -fx-border-color: none;
+    -fx-background-color: white;
+    -fx-padding: 0px;
+    -fx-font-weight:100;
+}
+.combo-box .list-view .list-cell:filled {
+    -fx-text-fill: black;
+    -fx-font-size: 10px;
+    -fx-font-weight:100;
+}
