@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.application.settings.BackupController">
+   <children>
+      <HBox alignment="CENTER" layoutX="200.0" layoutY="189.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <AnchorPane prefHeight="400.0" prefWidth="345.0">
+               <children>
+                  <Button layoutX="114.0" layoutY="128.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="119.0" text="Backup">
+                     <effect>
+                        <Reflection fraction="0.49" topOffset="2.2" topOpacity="1.0" />
+                     </effect></Button>
+                  <Button layoutX="112.0" layoutY="238.0" mnemonicParsing="false" text="Restor from file">
+                     <effect>
+                        <DropShadow color="#000dff" height="80.09" radius="54.315" spread="0.29" width="139.17" />
+                     </effect></Button>
+               </children>
+            </AnchorPane>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

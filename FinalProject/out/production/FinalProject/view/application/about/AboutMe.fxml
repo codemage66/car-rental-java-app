@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="553.0" prefWidth="735.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.application.about.AboutMeController">
+   <children>
+      <VBox alignment="CENTER" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" prefHeight="517.0" prefWidth="735.0">
+               <children>
+                  <AnchorPane prefHeight="517.0" prefWidth="689.0">
+                     <children>
+                        <Label layoutX="197.0" layoutY="195.0" prefHeight="35.0" prefWidth="297.0">
+                           <font>
+                              <Font name="System Bold" size="29.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="168.0" layoutY="153.0" prefHeight="128.0" prefWidth="372.0" text="Ferdowsi University Of Mashhad">
+                           <font>
+                              <Font name="Attic Antique DemiBold" size="21.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="156.0" layoutY="259.0" />
+                        <Label layoutX="160.0" layoutY="238.0" prefHeight="86.0" prefWidth="144.0" text="M@il me :">
+                           <font>
+                              <Font name="Coaster Shadow" size="24.0" />
+                           </font></Label>
+                        <Label layoutX="136.0" layoutY="321.0" prefHeight="67.0" prefWidth="191.0" text="Find me on instagram :">
+                           <font>
+                              <Font name="Attic Antique DemiBold" size="15.0" />
+                           </font></Label>
+                        <Hyperlink layoutX="278.0" layoutY="242.0" prefHeight="78.0" prefWidth="327.0" text="javid.chaji@yahoo.com">
+                           <font>
+                              <Font name="Coaster Shadow" size="24.0" />
+                           </font></Hyperlink>
+                        <Hyperlink layoutX="332.0" layoutY="315.0" prefHeight="78.0" prefWidth="267.0" text="instagram.com/javid.chaji">
+                           <font>
+                              <Font name="Attic Antique DemiBold" size="17.0" />
+                           </font></Hyperlink>
+                        <ImageView fx:id="imgMyImg" fitHeight="194.0" fitWidth="153.0" layoutX="262.0" layoutY="-11.0" pickOnBounds="true" smooth="false" />
+                     </children>
+                  </AnchorPane>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
