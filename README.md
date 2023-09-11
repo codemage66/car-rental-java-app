@@ -38,9 +38,9 @@ Ferdowsi University of Mashhad Advanced Programming Car Rental Platform
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/issues
+[issues-url]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/issues
 
 
 <!-- License -->
