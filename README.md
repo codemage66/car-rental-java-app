@@ -29,7 +29,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/JavidChaji/FUM-Advanced-Programming-Car-Rental-Platform](https://github.com/JavidChaji/FUM-Advanced-Programming-Car-Rental-Platform)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
