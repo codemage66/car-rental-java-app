@@ -160,5 +160,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Java.com]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
 [Java-url]: https://www.java.com
 
-[CSS.org]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=CSS3&logoColor=white
+[CSS.org]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white
 [CSS-url]: https://www.w3.org/Style/CSS/
