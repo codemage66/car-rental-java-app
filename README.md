@@ -49,7 +49,7 @@ Ferdowsi University of Mashhad Advanced Programming Car Rental Platform
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
-This section should list any major frameworks/libraries used to bootstrap your project.
+Technologies and Tools Utilized in this Project
 
 * [![Java][Java.com]][Java-url]
 * [![CSS][CSS.org]][CSS-url]
