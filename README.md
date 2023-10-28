@@ -51,8 +51,8 @@ Ferdowsi University of Mashhad Advanced Programming Car Rental Platform
 
 Technologies and Tools Utilized in this Project
 
-* [![Java][Java.com]][Java-url]
-* [![CSS][CSS.org]][CSS-url]
+* [![OpenJDK][OpenJDK-Shield]][OpenJDK-url]
+* [![CSS][CSS-Shield]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,8 +159,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Java.com]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
-[Java-url]: https://www.java.com
+[OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[OpenJDK-url]: https://www.java.com
 
-[CSS.org]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white
+[CSS-Shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://www.w3.org/Style/CSS/
