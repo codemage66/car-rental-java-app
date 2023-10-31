@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][Linkedin-Shield]][Javid-Linkedin-URL]
 
 # car-rental-java-app
 
@@ -51,8 +51,9 @@ Ferdowsi University of Mashhad Advanced Programming Car Rental Platform
 
 Technologies and Tools Utilized in this Project
 
-* [![OpenJDK][OpenJDK-Shield]][OpenJDK-url]
-* [![CSS][CSS-Shield]][CSS-url]
+* [![OpenJDK][OpenJDK-Shield]][OpenJDK-URL]
+* [![CSS][CSS-Shield]][CSS-URL]
+* [![Apache-Maven][Apache-Maven-Shield]][Apache-Maven-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,13 +155,24 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[Javid-Linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
+<!-- OpenJDK -->
 [OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[OpenJDK-url]: https://www.java.com
 
+[OpenJDK-URL]: https://www.java.com
+
+
+<!-- CSS -->
 [CSS-Shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS-url]: https://www.w3.org/Style/CSS/
+
+[CSS-URL]: https://www.w3.org/Style/CSS/
+
+
+<!-- Apache Maven -->
+[Apache-Maven-Shield]: https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
+
+[Apache-Maven-URL]: https://maven.apache.org/
