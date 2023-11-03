@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-Shield]][contributors-URL]
-[![Forks][forks-Shield]][forks-URL]
-[![Stargazers][stars-Shield]][stars-URL]
-[![Issues][issues-Shield]][issues-URL]
-[![MIT License][license-Shield]][license-URL]
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
@@ -126,32 +126,32 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
 
-[contributors-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/graphs/contributors
 
 <!-- Forks -->
-[forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
 
-[forks-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/network/members
 
 
 <!-- Stars -->
-[stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
 
-[stars-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/stargazers
 
 
 <!-- Issues -->
-[issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
 
-[issues-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/issues
 
 
 <!-- License -->
-[license-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform.svg?style=for-the-badge
 
-[license-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/blob/master/LICENSE
+[License-URL]: https://github.com/javidchaji/FUM-Advanced-Programming-Car-Rental-Platform/blob/master/LICENSE
 
 
 <!-- Linkedin -->
